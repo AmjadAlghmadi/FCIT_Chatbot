@@ -21,6 +21,6 @@ as shown in the picutres:
 ![Editing FCIT_Chatbot_README md at main · AmjadAlghmadi_FCIT_Chatbot - Google Chrome 8_16_2022 11_55_57 PM](https://user-images.githubusercontent.com/109242867/184993521-cc1e5d7d-9655-4cd8-9e36-c72c974d464e.png)
 
 ![‪CS‬‏ - Google Drive - Google Chrome 8_16_2022 11_56_56 PM](https://user-images.githubusercontent.com/109242867/184983764-8db8cc8f-a758-470f-8ed6-0f1909cd3a5a.png)
+and finally the last option that will give you a small brief on FCIT 
 
-and finelly the last option that will give you a small brief on FCIT 
 ![Editing FCIT_Chatbot_README md at main · AmjadAlghmadi_FCIT_Chatbot - Google Chrome 8_16_2022 11_59_41 PM](https://user-images.githubusercontent.com/109242867/184984217-a7b1f793-cce6-4ddb-b2bb-ccba37f41154.png)
